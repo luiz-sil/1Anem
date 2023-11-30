@@ -5,7 +5,7 @@ h1{
 }
 
 p{ 
-    color: #00ffff;
+    color: hsl(76, 100%, 50%);
     text-align: justify;
 }
 
